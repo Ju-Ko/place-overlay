@@ -22,7 +22,7 @@ if (window.top !== window.self) {
 }
 
 function updateImage() {
-    overlayImage.src = "https://place.army/overlay_target.png?" + Date.now()
+    overlayImage.src = "https://place.kayo.zip/outputs/overlay_target.png?" + Date.now()
 }
 
 setInterval(function () {overlayImage.src = "https://place.kayo.zip/outputs/overlay_target.png?" + Date.now()}, 30000);
