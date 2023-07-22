@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         r/placeDE Template
+// @name         r/papaplatte Overlay
 // @namespace    http://tampermonkey.net/
 // @version      8.2
 // @description  try to take over the canvas!
-// @author       placeDE Devs
+// @author       placeDE Devs <3 danke jungs
 // @match        https://garlic-bread.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @updateURL    https://github.com/PlaceDE-Official/place-overlay/raw/main/src/scripts/placeDE-overlay.user.js
